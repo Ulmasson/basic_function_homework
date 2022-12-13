@@ -1,5 +1,4 @@
 # Create a function called main.
-def main(c):
-    c = "codeschooluz"
-    return c 
+def main():
+    return "codeschooluz" 
 # Return the value "codeschooluz"
