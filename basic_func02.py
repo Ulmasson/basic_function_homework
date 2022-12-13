@@ -1,5 +1,5 @@
 # Create a function called main.
-def main(x):
+def main():
     
     return "Hello World"
 print(main())
